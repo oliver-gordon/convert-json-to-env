@@ -1,0 +1,8 @@
+{
+    "name":"Bob",
+    "job":"Blimp_Captain",
+    "children":{
+        "name":"Alice",
+        "job":"blimp_captain_assistant"
+    }
+}
