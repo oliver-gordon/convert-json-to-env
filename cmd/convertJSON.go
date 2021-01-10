@@ -1,7 +1,7 @@
 package cmd
 
 import (
-	"converter/util"
+	"convert-json-to-env/util"
 	"encoding/json"
 	"fmt"
 	"io/ioutil"
